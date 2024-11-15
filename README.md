@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ho-vb
-- 👀 I’m interested in walking
-- 🌱 I’m currently learning how to be a person
-- 💞️ I’m looking to collaborate on not being a piece of shit to others
-- 📫 How to reach me: in Hell
-- ⚡ Fun fact: you are not reading this
+- 👋 Hi, I’m me
+- 👀 I’m interested in walking to the end
+- 🌱 I’m currently learning how to be a person in person's world
+- 💞️ I’m looking to do as I do and see as I see
+- 📫 How to reach me: the email is there or maybe it's not
+- ⚡ Fun fact: you are reading this and as confused as I were/am/will be.
 
 <!---
 ho-vb/ho-vb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
